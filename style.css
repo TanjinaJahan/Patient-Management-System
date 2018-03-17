@@ -1,0 +1,188 @@
+
+.web{
+	margin-top: 15px;
+}
+.mid{
+	overflow:hidden;
+	width: 900px;
+	height: auto;
+	background: #049FF9;
+	margin: auto;
+	padding: 20px;
+}
+.banner{
+
+height: 50px;
+width: 100%;
+background-color:navy;
+color:white;
+}
+.banner h2,h3,h4{
+	text-align: center;
+}
+
+.menu{
+	background: #D4D4D4;
+	height: 29px;
+	
+}
+
+.menu ul{
+	
+}
+.menu ul li{
+display: inline-block;
+	border-width:1px;
+	border-style:solid;
+	border-color:#3b6e22 #3b6e22 #2c5115;
+	border-radius:5px;
+	text-shadow:0 1px 2px rgba(0,0,0,.5);
+	box-shadow:inset 0 1px 1px #a4e388;
+}
+.menu ul li:hover{
+ background-color: #4366EC;
+ 
+}
+
+.menu ul li a{
+	padding: 0px 20px;
+	font-size: 22px;
+}
+.feature{
+	overflow: hidden;
+	
+
+}
+.box1{
+
+	width: 400px;
+	padding: 10px;
+	background-color: #BDC2C5;
+	float: left;
+	display: block;
+	overflow: hidden;
+
+}
+.box1,.box2 p{
+	padding: 15px;
+}
+.box2{
+	width: 400px;
+	padding: 10px;
+	background-color: #BDC2C5;
+	float: right;
+	display: block;
+	
+}
+.Cus_box h2{
+	text-align: center;
+}
+.Cus_box{
+
+	margin-left: 150px;
+	margin-right: 150px;
+	padding-left: 40px;
+	padding-right: 40px;
+		border-width:1px;
+	border-style:solid;
+	border-color:#3b6e22 #3b6e22 #2c5115;
+	border-radius:5px;
+	text-shadow:0 1px 2px rgba(0,0,0,.5);
+	box-shadow:inset 0 1px 1px #a4e388;
+		
+}
+
+.footer{
+		margin-top: 10px;
+		width: 909px;
+		height: 60px;
+		
+		background:  #0069F0;
+		margin: auto;
+		color:white;
+		overflow: hidden;
+}
+
+
+
+/*This is style for Report.php*/
+.bill_box{
+	margin: auto 80px;
+		border-width:1px;
+	border-style:solid;
+	border-color:#3b6e22 #3b6e22 #2c5115;
+	border-radius:5px;
+	text-shadow:0 1px 2px rgba(0,0,0,.5);
+	box-shadow:inset 0 1px 1px #a4e388;
+
+}
+.address h2{
+	
+	padding-top: 30px;
+}
+.address label{
+font-size: 22px;
+}
+.address{
+	height: 150px;
+	width: 100%;
+	margin-top: 30px;
+	text-align: center;
+	
+}
+.client{
+	
+	height: 120px;
+	width: 100%;
+	margin-top: 30px;
+
+}
+.client label{
+  margin-left: 40px;
+}
+.top{
+	margin-left: 5px;
+	padding: 12px 30px;
+}
+.bill{
+	margin-top: -34px;
+	padding: 30px 30px;
+}
+.bill table{
+
+	width: 100%;
+}
+.bill table tr,th,td{
+	 border: 1px solid black;
+}
+.sign{
+height: 80px;
+width: 100%;
+
+
+}
+.emp_sign{
+
+height: 100px;
+width: 150px;
+float: left;
+display: inline-block;
+
+}
+.client_sign{
+
+height: 100px;
+width: 150px;
+float: right;
+display: inline-block;
+
+}
+.client_sign,.emp_sign h4{
+	text-align: center;
+}
+.client_sign,.emp_sign label{
+	margin-left: 32px;
+
+}
+
+/*This is style for Report.php*/
